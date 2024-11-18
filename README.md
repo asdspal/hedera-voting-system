@@ -6,7 +6,7 @@ This project implements a decentralized voting system using the Hedera Hashgraph
 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Configuration](#configuration)
+- [Configuration](#configuration)  
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
